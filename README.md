@@ -16,7 +16,7 @@ Hi, I'm Rameen, an 11-year-old programming and robotics enthusiast. I'm currentl
 * **You can find my projects on GitHub**
 
 ## **My Reading List 📚**
-* **Detective Stories 🕵🏻‍♂️**: My all-time favorite detective novels are Sherlock Holmes, And Then There Were None, Agatha Oddly and Famous Five
+* **Detective Stories 🕵🏻‍♂️**: My all-time favorite detective novels are Sherlock Holmes, And Then There Were None and Agatha Oddly 
 * **Magical Stories 🧙🏻‍♂️**: I am a huge fanatic of Harry Potter or as they would call me, a Potterhead
 
 ## **Get in Touch ✉️**
