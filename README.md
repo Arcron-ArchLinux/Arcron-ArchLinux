@@ -1,6 +1,7 @@
 # 👋🏻Hi There Guys!
 
-Hi, I'm Rameen, an 11-year-old programming and robotics enthusiast. I'm currently learning how to do Python and C++ programming & robotics, I just upload my projects in the hope that someone might find them useful.
+Hi,
+I'm Rameen, an 11-year-old programming, robotics, and Linux enthusiast. I'm currently learning Python and C++ programming and robotics. I'm uploading my projects in the hope that someone might find them useful and can correct my mistakes by pulling a request.
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/8a5b3baf-a197-447c-8def-99000e44636d)
 
