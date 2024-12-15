@@ -25,11 +25,7 @@ I'm Rameen, an 11-year-old programming, robotics, and Linux enthusiast. I'm curr
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/?username=Arcron-ArchLinux&show%20icons=true&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828" alt="Rameen's GitHub stats">
 </a><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828&repo=100-Days-Of-Code&show_owner=true" alt="Readme Card" />
-</a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&show_owner=true" alt="Readme Card" ></a>
+
 </a><br>
     <a href="https://github.com/anuraghazra">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&layout=compact" alt="Top Languages"></a>
