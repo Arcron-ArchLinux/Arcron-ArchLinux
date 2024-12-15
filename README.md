@@ -8,10 +8,32 @@ I'm Rameen, an 11-year-old programming, robotics, and Linux enthusiast. I'm curr
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/751c55d9-fc66-4f4a-a9cb-b324d9fe95cc)
 
 ## **My Toolbox**
-* **Programming Languages 🧑🏻‍💻**: Python, C++(cause it is required in Arduino Projects)
-* **Robotics Platforms**: Arduino, Raspberry Pi 
-* **IDEs**: Visual Studio Code, PyCharm and Arduino IDE
-* **Operating System**: Arch Linux 
+* **Programming Languages 🧑🏻‍💻**: Python ![python](https://github.com/user-attachments/assets/db6562f6-ed28-4aac-9d40-5690657ebd91), C++ ![c-](https://github.com/user-attachments/assets/6a8789f3-7b5b-455c-ade9-129a78a36149)
+
+
+* **Robotics Platforms**: Arduino ![image](https://github.com/user-attachments/assets/38068056-ef41-4569-ad00-a795281bde96), Raspberry Pi  ![image](https://github.com/user-attachments/assets/5584aa9a-f0c5-4297-87e2-3f5f854cdc9e)
+
+* **IDEs**: Visual Studio Code ![image](https://github.com/user-attachments/assets/3260d467-0fa5-4c59-b1cd-1a046c6bc06b), PyCharm ![image](https://github.com/user-attachments/assets/dc2179a2-6fb6-4f38-80bd-902f0e3d6c9a)
+ and Arduino IDE ![image](https://github.com/user-attachments/assets/38068056-ef41-4569-ad00-a795281bde96)
+
+* **Operating System**: Arch Linux (yes, I use Arch BTW) ![image](https://github.com/user-attachments/assets/92cf0d54-bd6d-4274-a802-376d2a957746)
+
+## My GitHub stats 
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arcron-ArchLinux&theme=prussian&border_radius=10&background=45%2C002DA9%2CFF2828&fire=FF6D00&ring=FF2A2AD3&currStreakNum=D2CBEB&currStreakLabel=D2CBEB&dates=D4D0EB" alt="GitHub Streak" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Arcron-ArchLinux&show%20icons=true&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828" alt="Rameen's GitHub stats">
+</a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828&repo=100-Days-Of-Code&show_owner=true" alt="Readme Card" />
+</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&show_owner=true" alt="Readme Card" ></a>
+</a><br>
+    <a href="https://github.com/anuraghazra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&layout=compact" alt="Top Languages"></a>
+</p>
 
 ## **My Projects**
 * **You can find my projects on GitHub**
