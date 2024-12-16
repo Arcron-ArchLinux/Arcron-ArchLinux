@@ -20,20 +20,13 @@ I'm Rameen, an 11-year-old programming, robotics, and Linux enthusiast. I'm curr
 
 ## My GitHub stats 
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arcron-ArchLinux&theme=prussian&border_radius=10&background=45%2C002DA9%2CFF2828&fire=FF6D00&ring=FF2A2AD3&currStreakNum=D2CBEB&currStreakLabel=D2CBEB&dates=D4D0EB" alt="GitHub Streak" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Arcron-ArchLinux&show%20icons=true&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828" alt="Rameen's GitHub stats">
-</a><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&&bg_color=DEG,002DA9,FF2828&repo=100-Days-Of-Code&show_owner=true" alt="Readme Card" />
-</a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&show_owner=true" alt="Readme Card" ></a>
-</a><br>
-    <a href="https://github.com/anuraghazra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&repo=Arcron-ArchLinux&layout=compact" alt="Top Languages"></a>
-</p>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Arcron-ArchLinux&theme=prussian&border_radius=10&background=45%2C002DA9%2CFF2828&fire=FF6D00&ring=FF2A2AD3&currStreakNum=D2CBEB&currStreakLabel=D2CBEB&dates=D4D0EB" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=Arcron-ArchLinux&show_icons=true&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828" alt="Arcron's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&repo=100-Days-Of-Code&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828" alt="100 Days Of Code" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcron-ArchLinux&repo=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828" alt="Arcron-ArchLinux" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcron-ArchLinux&theme=ambient_gradient&border_radius=10&text_color=D4D0EB&title_color=D4D0EB&bg_color=DEG,002DA9,FF2828&layout=compact" alt="Top Languages" />
+</div>
 
 ## **My Projects**
 * **You can find my projects on GitHub**
