@@ -19,6 +19,10 @@ I'm Rameen, an 11-year-old programming, robotics, and Linux enthusiast. I'm curr
 
 * **Operating System**: Arch Linux (yes, I use Arch BTW) ![image](https://github.com/user-attachments/assets/92cf0d54-bd6d-4274-a802-376d2a957746)
 
+ <div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="center"> 
+ </div>
+
 ## My GitHub stats 
 
 <div align="center">
